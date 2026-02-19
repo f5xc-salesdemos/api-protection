@@ -1,22 +1,22 @@
 # API Security
 
-[![GitHub Pages Deploy](https://github.com/f5xc-salesdemos/api/actions/workflows/github-pages-deploy.yml/badge.svg)](https://github.com/f5xc-salesdemos/api/actions/workflows/github-pages-deploy.yml)
-[![Repo Settings](https://github.com/f5xc-salesdemos/api/actions/workflows/enforce-repo-settings.yml/badge.svg)](https://github.com/f5xc-salesdemos/api/actions/workflows/enforce-repo-settings.yml)
-[![License](https://img.shields.io/github/license/f5xc-salesdemos/api)](LICENSE)
+[![GitHub Pages Deploy](https://github.com/f5xc-salesdemos/api-protection/actions/workflows/github-pages-deploy.yml/badge.svg)](https://github.com/f5xc-salesdemos/api-protection/actions/workflows/github-pages-deploy.yml)
+[![Repo Settings](https://github.com/f5xc-salesdemos/api-protection/actions/workflows/enforce-repo-settings.yml/badge.svg)](https://github.com/f5xc-salesdemos/api-protection/actions/workflows/enforce-repo-settings.yml)
+[![License](https://img.shields.io/github/license/f5xc-salesdemos/api-protection)](LICENSE)
 
 F5 XC API security
 
 ## Documentation
 
-Full documentation is available at **[https://f5xc-salesdemos.github.io/api/](https://f5xc-salesdemos.github.io/api/)**.
+Full documentation is available at **[https://f5xc-salesdemos.github.io/api-protection/](https://f5xc-salesdemos.github.io/api-protection/)**.
 
 ## Getting Started
 
 ```bash
-git clone https://github.com/f5xc-salesdemos/api.git
+git clone https://github.com/f5xc-salesdemos/api-protection.git
 ```
 
-See the [documentation](https://f5xc-salesdemos.github.io/api/) for detailed setup
+See the [documentation](https://f5xc-salesdemos.github.io/api-protection/) for detailed setup
 and usage guides.
 
 ## Contributing
